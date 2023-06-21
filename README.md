@@ -78,4 +78,4 @@ WAR!!
 player_two wins!! Player one cannot continue the war
 ```
 
-**NOTE : This is a simulation of the gameplay, and not user is not involved in it.** 
+**NOTE : This is a simulation of the gameplay, and a user is not involved in it.** 
